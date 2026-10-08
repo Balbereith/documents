@@ -1,0 +1,14 @@
+title: Balbereith — documents
+description: Documentation, politiques de confidentialité et conditions d'utilisation de mes projets.
+lang: fr
+
+# GitHub Pages theme (no layout of our own to maintain).
+theme: jekyll-theme-minimal
+
+# The Markdown files have no front matter: let Pages convert them to HTML anyway,
+# and turn the links between .md files into links between pages.
+optional_front_matter:
+  remove_originals: true
+relative_links:
+  enabled: true
+  collections: false
